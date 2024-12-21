@@ -1,0 +1,8 @@
+traffic_light.c:11:6:displayTrafficLed	24	static
+traffic_light.c:24:6:led_red_and_green	16	static
+traffic_light.c:30:6:led_red_and_yellow	16	static
+traffic_light.c:35:6:led_green_and_red	16	static
+traffic_light.c:40:6:led_yellow_and_red	16	static
+traffic_light.c:48:6:Blinkred	16	static
+traffic_light.c:62:6:Blinkyellow	16	static
+traffic_light.c:75:6:Blinkgreen	16	static
